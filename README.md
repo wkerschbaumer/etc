@@ -1,3 +1,9 @@
+# Deprecated/Unmaintained
+
+Repository not maintained anymore, use https://git.tmp.directory/dotfiles.git/ instead.
+
+## Dotfiles 
+
 Dotfiles for [Z shell][1], [Vim][2], [tmux][3], and [Git][4].
 
 Used yet not guaranteed to work on Debian-based and RPM-based Linuxes as well
